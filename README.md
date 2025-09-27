@@ -4,6 +4,10 @@ CRUD REST con Spring Boot.
 
 Requisitos: Java 17, Maven y MySQL (config en application.yml)
 
+# Iniciar programa 
+
+mvn spring-boot:run
+
 
 URL base: http://localhost:8080
 
