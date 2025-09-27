@@ -13,5 +13,5 @@ POST /api/students
 PUT /api/students/{id}
 DELETE /api/students/{id}
 
-![POST 201](docs/postman-post.PNG)
-![GET 200](docs/postman-get.png)
+![POST 201](postman-post.PNG)
+![GET 200](postman-get.png)
